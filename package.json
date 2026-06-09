@@ -1,1 +1,34 @@
-{\n  \"name\": \"fenster-konfigurator-ch\",\n  \"version\": \"1.0.0\",\n  \"description\": \"Advanced window and door configurator for Swiss market\",\n  \"type\": \"module\",\n  \"scripts\": {\n    \"dev\": \"vite\",\n    \"build\": \"vite build\",\n    \"preview\": \"vite preview\"\n  },\n  \"dependencies\": {\n    \"react\": \"^18.2.0\",\n    \"react-dom\": \"^18.2.0\",\n    \"react-i18next\": \"^13.2.0\",\n    \"i18next\": \"^23.7.0\",\n    \"zustand\": \"^4.4.0\",\n    \"three\": \"^r158\",\n    \"react-three-fiber\": \"^8.15.0\",\n    \"@react-three/drei\": \"^9.88.0\",\n    \"tailwindcss\": \"^3.3.0\",\n    \"clsx\": \"^2.0.0\",\n    \"lucide-react\": \"^0.296.0\"\n  },\n  \"devDependencies\": {\n    \"@vitejs/plugin-react\": \"^4.1.0\",\n    \"vite\": \"^5.0.0\",\n    \"typescript\": \"^5.3.0\",\n    \"@types/react\": \"^18.2.0\",\n    \"@types/react-dom\": \"^18.2.0\",\n    \"autoprefixer\": \"^10.4.16\",\n    \"postcss\": \"^8.4.31\",\n    \"tailwindcss\": \"^3.3.0\"\n  }\n}\n
+{
+  "name": "fenster-konfigurator-ch",
+  "version": "1.0.0",
+  "description": "Advanced window and door configurator for Swiss market",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^13.2.0",
+    "i18next": "^23.7.0",
+    "zustand": "^4.4.0",
+    "three": "^r158",
+    "react-three-fiber": "^8.15.0",
+    "@react-three/drei": "^9.88.0",
+    "tailwindcss": "^3.3.0",
+    "clsx": "^2.0.0",
+    "lucide-react": "^0.296.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.1.0",
+    "vite": "^5.0.0",
+    "typescript": "^5.3.0",
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.31",
+    "tailwindcss": "^3.3.0"
+  }
+}
